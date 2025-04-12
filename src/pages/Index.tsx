@@ -120,9 +120,9 @@ const Index = () => {
                 </Button>
               </>
             ) : (
-              <Button asChild size="sm">
-                <Link to="/auth">Sign In</Link>
-              </Button>
+                <Button asChild size="sm">
+                  <Link to="/auth">Sign In</Link>
+                </Button>
             )}
           </div>
         </div>
