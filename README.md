@@ -13,7 +13,7 @@
 * **Delivery Tracking**: Real-time package status updates with notification support.
 * **Maintenance Requests**: Residents can raise and track maintenance issues; admins can approve and respond.
 * **Real-time Notifications**: Alerts for delivery, maintenance updates, and visitor arrivals.
-* **Community Events Feed**: Lists events and announcements for residents with archive of expired events.
+* **Community Events Feed**: Lists events and announcements for residents with archive of expired event.
 
 ---
 
