@@ -65,7 +65,7 @@ Gatekeeper/
 * Mobile PWA version for offline access
 
 ---
-
+ 
 ## 🙌 Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and raise a pull request.
